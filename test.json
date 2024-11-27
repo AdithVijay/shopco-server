@@ -1,0 +1,35 @@
+{
+  "price": 1782,
+  "productId": "67163b7b1f8336ead317ccad",
+  "OfferIsActive": false,
+  "additionalInfo": "The actual colour of the product may vary slightly due to photographic lighting sources or your device.",
+  "category": "670f61c2a53ac9f6160d74c1",
+  "createdAt": "2024-10-21T11:31:07.667Z",
+  "description": "Give a majestic lift to your look with this Black textured pattern shirt. The shirt is crafted from fine 100% polyester. It is a versatile staple and great for teaming with jeans for a more casual look or smartening up with a classic pair of chinos.",
+  "images": [
+    "https://res.cloudinary.com/dxmoiixw3/image/upload/v1731569010/yehfbv3t4nh0uagrey64.jpg",
+    "https://res.cloudinary.com/dxmoiixw3/image/upload/v1731569010/sw5hqbcxfpqsutou3hff.jpg",
+    "https://res.cloudinary.com/dxmoiixw3/image/upload/v1731569010/x9dyppf7xbevdezpgeb8.jpg",
+    "https://res.cloudinary.com/dxmoiixw3/image/upload/v1731569011/brfeqhxazb8v3krac7dq.jpg",
+    "https://res.cloudinary.com/dxmoiixw3/image/upload/v1731569011/cqtuwshuiuoz8ac87gfs.jpg"
+  ],
+  "isListed": true,
+  "offerPrice": 0,
+  "productName": "Black Textured Shirt",
+  "regularPrice": 1782,
+  "salePrice": 1782,
+  "sizes": {
+    "S": 10,
+    "M": 7,
+    "L": 0,
+    "XL": 10,
+    "XXL": 10
+  },
+  "sleeveType": "Full sleeve",
+  "totalStock": 37,
+  "__v": 0,
+  "quantity": 1,
+  "selectedSize": "XXL",
+  "totalItemPrice": 1782,
+  "_id": "67372ba14a3d1c3561e395c9"
+}
